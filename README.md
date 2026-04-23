@@ -37,4 +37,3 @@ Your site will publish as a static GitHub Pages website.
 - Ian Burton Price
 - info@thecallarchitect.com
 - 954-639-3928
- 
